@@ -1,3 +1,6 @@
+Oleh : Ade Nurul Mubin / 2014157007
+
+
 # Nggallery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
